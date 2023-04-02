@@ -32,7 +32,7 @@ I graduated from the Silesian University of Technology and have experience worki
 
 ### Portfolio
 
-<a href="https://vassev.dev">vassev.dev</a>
+<a href="https://vassev.dev" target="_blank" rel="noopener noreferrer">vassev.dev</a>
 
 <!-- #
 
