@@ -2,9 +2,13 @@
 
 **`Full-stack web developer`**
 
-I am a full stack, frontend focused web developer, passionate about coding. My goal is to become the best software engineer I can and never stop learning.
+I’m a Full-stack Web Developer with nearly 3 years of experience in software engineering. I specialize in building scalable and maintainable web applications as well as web scraping and data automation.
 
-I graduated from the Silesian University of Technology and have experience working as a web developer.
+🔗 Portfolio: <a href="https://vassev.dev" target="_blank">vassev.dev<a>
+<br> 
+🔗 Web Scraping: <a href="https://apify.com/piotrv1001" target="_blank">apify.com/piotrv1001<a>
+<br> 
+🔗 SaaS: <a href="https://easymedia.app " target="_blank">easymedia.app <a>
 
 ---
 ### Languages and tools
@@ -29,12 +33,6 @@ I graduated from the Silesian University of Technology and have experience worki
 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </br>
-
-#
-
-### Portfolio
-
-<a href="https://vassev.dev" target="_blank" rel="noopener noreferrer">vassev.dev</a>
 
 <!-- #
 
