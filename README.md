@@ -2,7 +2,7 @@
 
 **`Full-stack web developer`**
 
-I’m a Full-stack Web Developer with nearly 3 years of experience in software engineering. I specialize in building scalable and maintainable web applications as well as web scraping and data automation.
+I’m a Full-stack Web Developer with over 3 years of experience in software engineering. I specialize in building scalable and maintainable web applications, AI agents, as well as web scraping and data automation.
 
 🔗 Portfolio: <a href="https://vassev.dev" target="_blank">vassev.dev<a>
 <br> 
@@ -33,6 +33,14 @@ I’m a Full-stack Web Developer with nearly 3 years of experience in software e
 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </br>
+
+</br>
+</br>
+
+---
+Doing it for the love of the game.
+
+<img width="959" height="699" src="./scam_altman.jpg" alt="I'm doing it because I love it">
 
 <!-- #
 
