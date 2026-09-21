@@ -1,49 +1,25 @@
 # 👋 Hi, I'm Peter
 
-**`Full-stack web developer`**
+**Founder of [FalconScrape](https://www.falconscrape.com) · Apify Store developer · Web scraping engineer**
 
-I’m a Full-stack Web Developer with over 3 years of experience in software engineering. I specialize in building scalable and maintainable web applications, AI agents, as well as web scraping and data automation.
-
-🔗 Portfolio: <a href="https://vassev.dev" target="_blank">vassev.dev<a>
-<br> 
-🔗 Web Scraping: <a href="https://apify.com/piotrv1001" target="_blank">apify.com/piotrv1001<a>
-<br> 
-🔗 SaaS: <a href="https://easymedia.app " target="_blank">easymedia.app <a>
+[![Apify Store](https://img.shields.io/badge/Apify%20Store-Browse%20200%2B%20Actors-00B16A?style=flat-square&logo=apify&logoColor=white)](https://apify.com/piotrv1001)
 
 ---
-### Languages and tools
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+I’m a full-stack developer with 4+ years of experience building reliable web applications, data extraction systems, and automation products.
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+My main focus is **[FalconScrape](https://www.falconscrape.com)** — a growing catalog of production-ready scrapers for ecommerce, job boards, directories, lead generation, and news. I build and maintain the complete product: extraction logic, anti-bot resilience, data quality, APIs, infrastructure, and the customer experience around it.
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+## 🦅 FalconScrape on Apify
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</br>
-
-</br>
-</br>
+- **200+ maintained scrapers** built for real-world production workloads
+- **12K+ users** across the actor portfolio
+- Structured results available through the Apify Console, API, schedules, and integrations
+- Coverage across ecommerce, jobs, lead generation, directories, and news
 
 ---
-Doing it for the love of the game.
 
-<img width="959" height="699" src="./scam_altman.jpg" alt="I'm doing it because I love it">
+### 🚀 Explore the work
 
-<!-- #
-
-### Stats
-
-![piotrv1001 GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrv1001&show_icons=true&theme=gruvbox) -->
+- [**FalconScrape**](https://www.falconscrape.com) — Product, guides, and scraper catalog
+- [**Apify Store**](https://apify.com/piotrv1001) — Browse and run my actors
