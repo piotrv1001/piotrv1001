@@ -8,7 +8,7 @@
 
 I’m a full-stack developer with 4+ years of experience building reliable web applications, data extraction systems, and automation products.
 
-My main focus is **[FalconScrape](https://www.falconscrape.com)** — a growing catalog of production-ready scrapers for ecommerce, job boards, directories, lead generation, and news. I build and maintain the complete product: extraction logic, anti-bot resilience, data quality, APIs, infrastructure, and the customer experience around it.
+My main focus is **[FalconScrape](https://www.falconscrape.com)** - a growing catalog of production-ready scrapers for ecommerce, job boards, directories, lead generation, and news. I build and maintain the complete product: extraction logic, anti-bot resilience, data quality, APIs, infrastructure, and the customer experience around it.
 
 ## 🦅 FalconScrape on Apify
 
@@ -21,5 +21,5 @@ My main focus is **[FalconScrape](https://www.falconscrape.com)** — a growing 
 
 ### 🚀 Explore the work
 
-- [**FalconScrape**](https://www.falconscrape.com) — Product, guides, and scraper catalog
-- [**Apify Store**](https://apify.com/piotrv1001) — Browse and run my actors
+- [**FalconScrape**](https://www.falconscrape.com) - Product, guides, and scraper catalog
+- [**Apify Store**](https://apify.com/piotrv1001) - Browse and run my actors
