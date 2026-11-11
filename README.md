@@ -12,8 +12,8 @@ My main focus is **[FalconScrape](https://www.falconscrape.com)** - a growing ca
 
 ## 🦅 FalconScrape on Apify
 
-- **300+ maintained scrapers** built for real-world production workloads
-- **20K+ users** across the actor portfolio
+- **400+ maintained scrapers** built for real-world production workloads
+- **25K+ users** across the actor portfolio
 - Structured results available through the Apify Console, API, schedules, and integrations
 - Coverage across ecommerce, jobs, lead generation, directories, and news
 
